@@ -1,5 +1,5 @@
 {
-    "name": "wijzijnweb/laravel-inertia-permissions",
+    "name": "kacemrs/laravel-inertia-permissions",
     "description": "Easy to use package to implement Spatie's Permissions package into Inertia Laravel projects.",
     "keywords": [
         "permissions",
