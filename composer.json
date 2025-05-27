@@ -1,5 +1,5 @@
 {
-    "name": "kacemrs/laravel-inertia-permissions",
+    "name": "kacemrs1/laravel-inertia-permissions",
     "description": "Easy to use package to implement Spatie's Permissions package into Inertia Laravel projects.",
     "keywords": [
         "permissions",
@@ -8,7 +8,7 @@
         "laravel",
         "Spatie"
     ],
-    "homepage": "https://github.com/wijzijnweb/laravel-inertia-permissions",
+    "homepage": "https://github.com/kacemrs1/laravel-inertia-permissions",
     "license": "MIT",
     "require": {
         "php": "^8.1",
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Wijzijnweb\\LaravelInertiaPermissions\\": "src/"
+            "Kacemrs1\\LaravelInertiaPermissions\\": "src/"
         }
     },
     "scripts": {
@@ -32,7 +32,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Wijzijnweb\\LaravelInertiaPermissions\\PermissionsServiceProvider"
+                "Kacemrs1\\LaravelInertiaPermissions\\PermissionsServiceProvider"
             ]
         }
     },
