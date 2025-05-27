@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Kacemrs1\\LaravelInertiaPermissions\\": "src/"
+            "Wijzijnweb\\LaravelInertiaPermissions\\": "src/"
         }
     },
     "scripts": {
