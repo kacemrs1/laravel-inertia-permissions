@@ -111,7 +111,7 @@ Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed re
 
 ## Credits
 
-- [Wij zijn WEB](https://github.com/wijzijnweb)
+
 
 ## License
 
